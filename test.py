@@ -17,3 +17,4 @@ target_port = [21,22,80]
 
 for p in target_port:
     grab_banner(target_ip, p)
+
